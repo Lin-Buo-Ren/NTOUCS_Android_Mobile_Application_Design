@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">可替代資源設計</string>
+    <string name="I18N_experiment_string">這是軟體訊息國際化(I18N)實驗</string>
+</resources>

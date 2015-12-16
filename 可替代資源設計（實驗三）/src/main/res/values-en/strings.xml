@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alternate Resource Design</string>
+    <string name="I18N_experiment_string">This is software message internationalization(I18N) experiment</string>
+</resources>

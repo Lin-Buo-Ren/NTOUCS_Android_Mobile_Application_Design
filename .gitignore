@@ -1,4 +1,13 @@
+# Android Studio 預設值
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
 # Git 追蹤排除規則
 ## 建構結果
 *.pdf
-
