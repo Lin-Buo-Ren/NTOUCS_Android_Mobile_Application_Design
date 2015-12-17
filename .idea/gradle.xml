@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/可替代資源設計（實驗三）" />
-            <option value="$PROJECT_DIR$/多媒體播放器選單介面（實驗五）" />
+            <option value="$PROJECT_DIR$/可替代資源設計（1041 實驗三）" />
+            <option value="$PROJECT_DIR$/多媒體播放器選單介面（1041 實驗五）" />
           </set>
         </option>
       </GradleProjectSettings>
