@@ -1,8 +1,31 @@
 # 可替代資源設計（實驗三）
 [實驗三：替代資源檔設計.original.pdf](https://drive.google.com/open?id=0B3e9XCL1ZWE8bERHNmdvOEVUSlk)
 
+## 操作過程
+### 設定新資源目錄
+![process-new-resource-directory-port](Pictures/process-new-resource-directory-port.png)
+![process-new-resource-directory-en-rUS](Pictures/process-new-resource-directory-en-rUS.png)
+
+### 新增翻譯
+![strings-en-rUS](Pictures/strings-en-rUS.png)
+![strings-zh-rTW](Pictures/strings-zh-rTW.png)
+
+## 測試結果
+### 背景圖隨裝置旋轉方向改變
+#### 直向
+![demo-port](Pictures/demo-port.png)
+
+#### 橫向
+![demo-landscape](Pictures/demo-landscape.png)
+
+### 文字隨裝置語系設定改變（英文）
+![demo-en](Pictures/demo-en.png)
+
+## 釋出軟體
+[Release 可替代資源設計（1041 實驗三） v1.0.0 · Lin-Buo-Ren/NTOUCS_Android_Mobile_Application_Design](https://github.com/Lin-Buo-Ren/NTOUCS_Android_Mobile_Application_Design/releases/tag/Alternate-Resource-Design-v1.0.0)
+
 ## 第三方軟體
-這個 Android 應用軟體使用了一些採用不同的授權條款的第三方軟體，敬請留意：
+這次實驗使用了一些採用不同的授權條款的第三方軟體，敬請留意：
 
 ### 由 [southtyrolean](https://www.flickr.com/photos/schoffer/) 所創作的「graz - snowman :: fountain」
 ![graz - snowman :: fountain](src/main/res/drawable-land/snowman.jpg)
